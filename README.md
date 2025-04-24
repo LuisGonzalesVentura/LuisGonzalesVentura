@@ -1,7 +1,13 @@
+
+
 <img src="https://github.com/LuisGonzalesVentura/LuisGonzalesVentura/blob/main/helloww.svg"/>
 
 
-<h1 align="center">Hola 👋 soy Luis, desarrollador Full-Stack </h1>
+<p align="center">
+  <img src="https://github.com/LuisGonzalesVentura/LuisGonzalesVentura/blob/main/apreton-manos.gif?raw=true" width="200" alt="Apretón de manos" />
+</p>
+
+<h1 align="center">Hola 👋 soy Luis, Ingeniero de Sistemas , desarrollador Full-Stack </h1>
 
 ___
 
