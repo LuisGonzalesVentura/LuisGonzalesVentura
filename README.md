@@ -12,21 +12,18 @@ ___
 ~~~ javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Java, Kotlin, PHP, Javascript, Typescript, HTML, CSS, SQL],
+   code: [Java, Kotlin, PHP, Javascript, Typescript, HTML, CSS, SQL, Python],
    technologies: {
       frontEnd: {
-         java: ["Thymeleaf", "JavaFx"],
-         Typescript: ["Angular"],
-         js: ["jQuery, Ajax, PWA"],
+         Typescript: ["Angular, Next.js"],
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
-         java: ["SpringBoot", "SpringCloud", "SpringSecurity", "Microservicios"],
          PHP: ["Codeigniter"],
-         Otras: ["Docker"]
+         Otras: ["Node.js"]
       },
-      databases: ["MySQL", "Oracle", "SQLite", "H2", "Hibernate", "Postgre", "MongoDb", "Firebase"],
-      mobile: ["Android"]
+      databases: ["MySQL", "Postgres", ],
+      mobile: ["Android, Ios"]
    },
    currentOccupation: ["I continue training and open for job opportunities"]
 };
@@ -45,7 +42,7 @@ const aboutMe = {
 <a href="luis.florencio.gonzales.ventura@gmail.com">luis.florencio.gonzales.ventura@gmail.com</a> 
 
 * <img align="center" alt="Curriculum Vitae" width="46px" src="https://github.com/jitos86/jitos86/blob/master/icon_cv.png" />&nbsp;&nbsp;
-<a download="JuanJoseGarcia.pdf" href="https://github.com/jitos86/jitos86/blob/master/JuanJoseGarcia.pdf">Descargar currículum</a>
+<a download="LuisGonzales.pdf" href="https://github.com/LuisGonzalesVentura/LuisGonzalesVentura/blob/main/CURRICULUM%20LUIS%20GONZALES%20(3).pdf">Descargar currículum</a>
 
 <br>
 
@@ -56,7 +53,7 @@ const aboutMe = {
 
 * [¿Quieres ver el resto?](https://github.com/LuisGonzalesVentura?tab=repositories")
 
-* 
+
 
 <!--
 &nbsp;&nbsp;
