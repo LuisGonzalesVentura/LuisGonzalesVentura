@@ -48,7 +48,7 @@ const aboutMe = {
 
 ## Alguno de mis proyectos
 
-* [Industrias Cin](https://industrias-cin-web.vercel.app/")
+* [Industrias Cin](https://industrias-cin-web.vercel.app)
 
 
 * [¿Quieres ver el resto?](https://github.com/LuisGonzalesVentura?tab=repositories")
