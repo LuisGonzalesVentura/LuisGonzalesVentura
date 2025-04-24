@@ -1,4 +1,4 @@
-<img src="https://github.com/jitos86/jitos86/blob/master/hellow.svg"/>
+<img src="https://github.com/LuisGonzalesVentura/LuisGonzalesVentura/blob/main/helloww.svg"/>
 
 
 <h1 align="center">Hola 👋 soy Luis, desarrollador Full-Stack </h1>
